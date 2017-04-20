@@ -1,6 +1,5 @@
-CC1101
+CC112x
 ======
 
-driver library for Ti CC1100 / CC1101. 
-Contains Lib for Arduino and Raspberry Pi. 
-Note: Raspi need wiringPi 
+driver library for Ti CC112x transceivers.
+Contains Lib for Arduino and Arduino compliant microcontrollers
