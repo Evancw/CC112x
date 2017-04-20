@@ -3,7 +3,8 @@
 '-----------------------------------------------------------------------------*/
 #include "KRUPSComm.h"
 //#include "settings.h"
-
+//
+//
 //-------------------------[CC112x reset function]------------------------------
 void KRUPSComm::reset(void)			      // reset defined in cc112x datasheet
 {
